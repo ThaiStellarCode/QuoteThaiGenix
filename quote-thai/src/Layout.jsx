@@ -4,7 +4,7 @@ const Layout = ({ children }) => {
     return (
         <div className="relative min-h-screen">
             {children}
-            <Footer />
+            {/* <Footer /> */}
         </div>
     );
 };
