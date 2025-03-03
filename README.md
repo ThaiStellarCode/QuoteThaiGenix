@@ -5,7 +5,7 @@
 1. fork และ clone ก่อน
 หลังจาก fork เสร็จแล้วให้ใช้คำสั่งนี้
 ```sh
-git clone https://github.com/<your_name>/QuoteThaiGenix.git
+git clone https://github.com/ThaiStellarCode/QuoteThaiGenix.git
 ```
 
 2. ติดตั้ง dependencies
